@@ -184,7 +184,7 @@ A real-time computer vision pipeline for glaucoma detection, optimized to run un
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ariprasanth-V&show_icons=true&hide_border=true&title_color=FF9900&icon_color=58A6FF&text_color=E6EDF3&bg_color=0D1117" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ariprasanth-V&hide_border=true&background=0D1117&stroke=FF9900&ring=58A6FF&fire=FF9900&currStreakLabel=FF9900" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Ariprasanth-V&hide_border=true&background=0D1117&stroke=FF9900&ring=58A6FF&fire=FF9900&currStreakLabel=FF9900" />
 
 </div>
 
