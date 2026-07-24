@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&fontColor=FF9900&text=Ariprasanth%20V&fontSize=38&desc=Software%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20AWS%20%C2%B7%20Microservices&descColor=58A6FF&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D1117&fontColor=FF9900&text=Ariprasanth%20V&fontSize=36&fontAlignY=35&desc=Software%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20AWS%20%C2%B7%20Microservices&descSize=16&descAlignY=58&descColor=58A6FF&animation=fadeIn" />
 
 </div>
 
@@ -20,7 +20,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF9900&labelColor=0D1117&color=FF9900)](https://www.linkedin.com/in/ariprasanth-v/)
-[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117&color=58A6FF)](mailto:Ariprasanth-V@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117&color=58A6FF)](mailto:ariprasanthv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=FF9900&labelColor=0D1117&color=FF9900)](https://github.com/Ariprasanth-V)
 [![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF&labelColor=0D1117&color=58A6FF)](https://leetcode.com/u/Ariprasanth)
 
@@ -239,7 +239,7 @@ open_to:
 ## `> cat connect.sh`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF9900&labelColor=0D1117&color=FF9900)](https://www.linkedin.com/in/ariprasanth-v/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117&color=58A6FF)](mailto:Ariprasanth-V@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117&color=58A6FF)](mailto:ariprasanthv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF9900&labelColor=0D1117&color=FF9900)](https://github.com/Ariprasanth-V)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF&labelColor=0D1117&color=58A6FF)](https://leetcode.com/u/Ariprasanth)
 
